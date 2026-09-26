@@ -1,0 +1,8 @@
+{
+  "name": "Sangeeta Boutique",
+  "description": "Sangeeta Boutique (Sangita Boutique) – Bespoke bridal blouses, royal suits, festive lehengas, and custom sewing in Dumara Chowk, Kapilvastu, Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
